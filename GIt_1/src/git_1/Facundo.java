@@ -1,13 +1,18 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
+
 package git_1;
 
-/**
- *
- * @author Facua
- */
+
 public class Facundo {
     
+    private String nombre, apellido ;
+    private int edad;
+    public Facundo(){
+        this.nombre = "Facundo";
+        this.apellido = "Agüero";
+        this.edad = 20;
+    }
+    
+    public void hola(){
+        System.out.println("Hola! me llamo " + nombre + " " + apellido + " y tengo " + edad + "años" );
+    }
 }
