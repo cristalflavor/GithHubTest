@@ -14,5 +14,9 @@ public class GIt_1 {
         System.out.println("Por aca todo tranqui");
 
     }
+      public void saludar() {
+         String nombre = null;
     
+    System.out.println("Hola, mi Nombre es "+nombre);
+}
 }
