@@ -18,6 +18,7 @@ public class GIt_1 {
         
         System.out.println("Por aca todo tranqui");
 
+        Aguirre.Saludar();
     }
       public void saludar() {
          String nombre = null;
