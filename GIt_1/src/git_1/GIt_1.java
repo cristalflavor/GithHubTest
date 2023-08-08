@@ -12,5 +12,9 @@ public class GIt_1 {
         System.out.println("Q tal");
 
     }
+      public void saludar() {
+         String nombre = null;
     
+    System.out.println("Hola, mi Nombre es "+nombre);
+}
 }
