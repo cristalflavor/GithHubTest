@@ -4,8 +4,13 @@ public class GIt_1 {
 
     public static void main(String[] args) {
         System.out.println("Hola!!");
+        System.out.println("a ver, estamos probando la clase 2");
+        
+        
+       
 
         System.out.println("a ver, estamos probando la clase 2");
+
 
         System.out.println("Todo bien!");
    
@@ -14,6 +19,7 @@ public class GIt_1 {
         System.out.println("Por aca todo tranqui");
         
 
+        Aguirre.Saludar();
     }
       public void saludar() {
          String nombre = null;
