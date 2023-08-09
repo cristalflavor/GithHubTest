@@ -25,5 +25,7 @@ public class GIt_1 {
          String nombre = null;
     
     System.out.println("Hola, mi Nombre es "+nombre);
+    
+          System.out.println("Suerte en el grupo que les toque hoy");
 }
 }
