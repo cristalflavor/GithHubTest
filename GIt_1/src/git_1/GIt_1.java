@@ -18,7 +18,7 @@ public class GIt_1 {
         
         System.out.println("Por aca todo tranqui");
         
-
+System.out.println("QUE TAL LOS GRUPOS HOY???");
         Aguirre.Saludar();
     }
       public void saludar() {
